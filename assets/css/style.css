@@ -8,7 +8,7 @@ body {
     background-color: #d9dcd6;
 }
 
-/* header styling*/
+/*header*/
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -22,7 +22,7 @@ header h1 {
     font-size: 48px;
 }
 
-/*letters seo color in title*/
+/*letters (seo) in Horiseon color in title*/
 header h1 .seo {
     color: #d9dcd6;
 }
@@ -47,18 +47,18 @@ header nav ul li {
     margin-left: 25px;
 }
 
-/*style of links at the top of the page*/
+/*links at the top of the page*/
 a {
     color: #ffffff;
     text-decoration: none;
 }
 
-/*all paragraphs stylingt*/
+/*all paragraphs*/
 p {
     font-size: 16px;
 }
 
-/*hero styling*/
+/*hero*/
 .hero {
     height: 800px;
     width: 100%;
