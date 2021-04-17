@@ -4,4 +4,4 @@ This website details various challenges when it comes to building a website. The
 
 https://alexelliott22.github.io/horiseon-website-launch/
 
-![Screenshot of website](assets/images/screenshot.png)
+![Screenshot of website](assets/images/screenshot.jpg)
